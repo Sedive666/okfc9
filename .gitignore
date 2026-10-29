@@ -1,0 +1,5 @@
+*
+!.gitignore
+!locustfile.py
+!locust.conf
+!requirements.txt
